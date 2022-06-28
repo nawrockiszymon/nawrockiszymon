@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a frontend software engineer from Poland- ? Working on multiple frontend project using React and Nodejs
+I am a frontend software engineer from Poland - Working on multiple frontend projects using React and Nodejs
 
 
 
